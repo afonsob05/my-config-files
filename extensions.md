@@ -1,0 +1,50 @@
+# Extensions
+
+Note that these are not final, and can change over time
+
+- Error Lens
+- Yash
+- Vue (Official)
+- vscode-pdf
+- VSCode DOSBox
+- Vitest
+- Vibrancy Continued
+- TypeScript 7
+- Tokyo Night -> Current theme
+- Test Runner + Project Manager + Maven + Language Support + Gradle + Extension Pack + Debugger for Java
+- Rainbow CSV
+- Python Environments + Extension Pack + Debugger + Python
+- Pylance
+- Prolog Tester
+- Pretty TypeScript Errors
+- Prettier SQL VSCode
+- PlantUML
+- OCaml Platform
+- Makefile Tools
+- Lua
+- Live Server
+- JSDoc Link
+- JavaScript and TypeScript Nightly
+- JavaScript (ES6) code snippets
+- Java
+- Grafana Alloy
+- Go
+- GitHub Pull Requests
+- GitHub Copilot upgrade + Github Copilot modernization
+- ESLint
+- Error Gutters
+- Django
+- Discord Presence (currently switched out of Discord for Stoat)
+- Dev Containers
+- Dafny
+- Container Tools
+- Color Highlight
+- CodeSnap
+- CMake + Cmake Tools
+- C/C++ Themes + Extension Pack + DevTools + C/C++
+- Biome
+- Better Comments
+- Better C++ Syntax
+- autoDocstring - Python Docstring Generator
+- Alloy & Alloy VSCode
+- .NET Install Tool

@@ -8,3 +8,4 @@ My config files for:
  - Nautilus File Explorer
  - Caelestia Shell
  - Hyprland
+ - VSCode (my main editor)
