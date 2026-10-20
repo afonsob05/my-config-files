@@ -125,7 +125,7 @@
         "*.dfy": "dafny",
         "*.c": "c",
     },
-    "workbench.preferredDarkColorTheme": "Tokyo Night",
+    "workbench.preferredDarkColorTheme": "Tokyo Night", //I use both Tokyo Night & Catpuccin Mocha
     "workbench.browser.showInTitleBar": false,
     "window.menuBarVisibility": "compact",
     "workbench.navigationControl.enabled": false,
